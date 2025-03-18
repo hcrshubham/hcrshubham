@@ -28,7 +28,7 @@ I'm a **Software Developer** at **TCS** with 3 years of experience specializing 
 
 - **Bachelor of Computer Applications (BCA) (2018 - 2021)**
   - **Maulana Mazharul Haque Arabic & Persian University, Patna**
-  - **Percentage:** 72.67%
+  - **Percentage:** 72%
 
 ## 📜 Certifications
 - **Certificate of Merit** in *Hands-on Approach to AI for Real-World Applications* by **IIT Kharagpur** (October 2024)
